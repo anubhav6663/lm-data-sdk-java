@@ -69,7 +69,7 @@ dependencies {
     compileOnly 'org.projectlombok:lombok:1.18.22'
     annotationProcessor 'org.projectlombok:lombok:1.18.22'
     implementation 'org.slf4j:slf4j-api:1.7.25'
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.3'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
     testImplementation 'org.mockito:mockito-junit-jupiter:4.3.1'
 }
